@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590332699167",
+    "firebase_url": "https://smoketrac.firebaseio.com",
+    "project_id": "smoketrac",
+    "storage_bucket": "smoketrac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590332699167:android:e473f116ebf9868df32b2a",
+        "android_client_info": {
+          "package_name": "com.example.smoke_tracker4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590332699167-ovnnd6lo7p55mkuud19rr8ug0ajf2eu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYUDnzY0HI4erz_ACh6EHbXG33wfWcAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590332699167-ovnnd6lo7p55mkuud19rr8ug0ajf2eu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
